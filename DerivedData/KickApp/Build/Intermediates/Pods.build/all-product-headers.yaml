@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/HanabiCollectionViewLayout.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "HanabiCollectionViewLayout-Swift.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/HanabiCollectionViewLayout.framework/Headers/HanabiCollectionViewLayout-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "HanabiCollectionViewLayout-umbrella.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/Pods/Target Support Files/HanabiCollectionViewLayout/HanabiCollectionViewLayout-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/HanabiCollectionViewLayout.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/HanabiCollectionViewLayout.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/Pods_KickApp.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-KickApp-umbrella.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/Pods/Target Support Files/Pods-KickApp/Pods-KickApp-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_KickApp-Swift.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/Pods_KickApp.framework/Headers/Pods_KickApp-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/Pods_KickApp.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-KickApp.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

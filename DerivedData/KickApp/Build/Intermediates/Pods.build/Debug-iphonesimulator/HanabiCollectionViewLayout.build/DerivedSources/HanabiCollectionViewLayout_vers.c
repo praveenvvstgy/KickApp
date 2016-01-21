@@ -1,0 +1,1 @@
+ const unsigned char HanabiCollectionViewLayoutVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:HanabiCollectionViewLayout  PROJECT:Pods-1" "\n"; const double HanabiCollectionViewLayoutVersionNumber __attribute__ ((used)) = (double)1.;

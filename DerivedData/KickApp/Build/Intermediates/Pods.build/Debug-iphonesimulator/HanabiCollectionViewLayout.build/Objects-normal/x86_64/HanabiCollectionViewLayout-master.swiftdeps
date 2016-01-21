@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.100.4 clang-700.1.75)"
+options: "e829e45ee1b15e9fd3853df614b4ac9e"
+build_time: [506619165, 504065000]
+inputs:
+  "/Users/i322360/Desktop/KickApp/Pods/HanabiCollectionViewLayout/Hanabi/HanabiCollectionViewLayout.swift": [506619117, 0]

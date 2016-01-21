@@ -1,0 +1,19 @@
+PODS:
+  - HanabiCollectionViewLayout (1.0.1)
+
+DEPENDENCIES:
+  - HanabiCollectionViewLayout (from `https://github.com/kshin/Hanabi`)
+
+EXTERNAL SOURCES:
+  HanabiCollectionViewLayout:
+    :git: https://github.com/kshin/Hanabi
+
+CHECKOUT OPTIONS:
+  HanabiCollectionViewLayout:
+    :commit: efc5a7af95c376a5e2fff379147e8f75a404d40c
+    :git: https://github.com/kshin/Hanabi
+
+SPEC CHECKSUMS:
+  HanabiCollectionViewLayout: ac4a961f5169bc60ae7d713dd3acde51420e49ff
+
+COCOAPODS: 0.39.0

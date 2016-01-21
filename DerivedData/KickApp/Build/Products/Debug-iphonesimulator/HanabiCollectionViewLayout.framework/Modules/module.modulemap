@@ -1,0 +1,10 @@
+framework module HanabiCollectionViewLayout {
+  umbrella header "HanabiCollectionViewLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module HanabiCollectionViewLayout.Swift {
+    header "HanabiCollectionViewLayout-Swift.h"
+}

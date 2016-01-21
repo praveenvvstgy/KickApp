@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.100.4 clang-700.1.75)"
+options: "345179088af69bd83d2c162ad4857729"
+build_time: [506621941, 310841000]
+inputs:
+  "/Users/i322360/Desktop/KickApp/KickApp/SplashViewController.swift": [506534508, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/AppDelegate.swift": [506534192, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/CoachesMainTableVC.swift": [506621940, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/CoachesRegistrationVC.swift": [506619879, 0]
