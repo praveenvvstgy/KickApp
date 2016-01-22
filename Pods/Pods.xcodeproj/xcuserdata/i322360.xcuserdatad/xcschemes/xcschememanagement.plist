@@ -4,12 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HanabiCollectionViewLayout.xcscheme</key>
+		<key>Pods-KickApp.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-KickApp.xcscheme</key>
+		<key>YMSwipeTableViewCell.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -17,12 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>97CBD39F56F3833D43324AB55233E62C</key>
+		<key>0A4FC10DC7D5DA13C8E81C7C7A6E183B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EFE193FDCD736045B40EDF9120780281</key>
+		<key>4312E926EAA2A9537D7DAEE04DD6F977</key>
 		<dict>
 			<key>primary</key>
 			<true/>

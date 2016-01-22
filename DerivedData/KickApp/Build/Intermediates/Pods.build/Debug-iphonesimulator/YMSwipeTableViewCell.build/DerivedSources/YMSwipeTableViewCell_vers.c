@@ -1,0 +1,1 @@
+ const unsigned char YMSwipeTableViewCellVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:YMSwipeTableViewCell  PROJECT:Pods-1" "\n"; const double YMSwipeTableViewCellVersionNumber __attribute__ ((used)) = (double)1.;

@@ -4,6 +4,6 @@
 use_frameworks!
 
 target 'KickApp' do
-pod "HanabiCollectionViewLayout", :git => 'https://github.com/kshin/Hanabi'
+pod 'YMSwipeTableViewCell', '~> 2.1.1'
 end
 

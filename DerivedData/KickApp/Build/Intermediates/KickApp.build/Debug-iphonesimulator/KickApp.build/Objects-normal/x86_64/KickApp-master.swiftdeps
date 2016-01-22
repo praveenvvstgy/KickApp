@@ -1,8 +1,16 @@
 version: "Apple Swift version 2.1 (swiftlang-700.1.100.4 clang-700.1.75)"
-options: "345179088af69bd83d2c162ad4857729"
-build_time: [506621941, 310841000]
+options: "69a9797e60ae59a6308508c5068625bb"
+build_time: [506753634, 815029000]
 inputs:
-  "/Users/i322360/Desktop/KickApp/KickApp/SplashViewController.swift": [506534508, 0]
-  "/Users/i322360/Desktop/KickApp/KickApp/AppDelegate.swift": [506534192, 0]
-  "/Users/i322360/Desktop/KickApp/KickApp/CoachesMainTableVC.swift": [506621940, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/TicketsViewController.swift": [506753634, 0]
   "/Users/i322360/Desktop/KickApp/KickApp/CoachesRegistrationVC.swift": [506619879, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/CoachStrategyViewController.swift": [506751674, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/FansRegistrationVC.swift": [506751806, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/SplashViewController.swift": [506534508, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/PlayerProfileViewController.swift": [506748902, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/CoachesMainTableVC.swift": [506749160, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/PaymentViewController.swift": [506753551, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/PlayerProfileViewController2.swift": [506749379, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/PlayerSelectionViewController.swift": [506751669, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/AppDelegate.swift": [506534192, 0]
+  "/Users/i322360/Desktop/KickApp/KickApp/PlayersRegistrationVC.swift": [506751817, 0]

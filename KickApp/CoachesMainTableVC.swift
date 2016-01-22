@@ -20,6 +20,9 @@ class CoachesMainTableVC: UITableViewController {
             performSegueWithIdentifier("strategy", sender: self)
         case 2:
             performSegueWithIdentifier("events", sender: self)
+        case 3:
+            performSegueWithIdentifier("playersshow", sender: self)
+            
         default:
             print("wrong selection")
         }

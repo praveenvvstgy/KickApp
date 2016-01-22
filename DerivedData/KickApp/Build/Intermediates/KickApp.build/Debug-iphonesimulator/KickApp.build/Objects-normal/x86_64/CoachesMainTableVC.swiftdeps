@@ -6,17 +6,17 @@ provides-nominal:
 provides-member:
 - ["C7KickApp18CoachesMainTableVC", ""]
 provides-dynamic-lookup:
-- "menuItems"
 - "tableView"
+- "menuItems"
 depends-top-level:
 - "NSIndexPath"
 - "UITableView"
-- "UITableViewController"
-- !private "~="
-- "Array"
 - !private "print"
-- "StringLiteralType"
+- !private "~="
 - "CoachesMainTableVC"
+- "Array"
+- "UITableViewController"
+- "StringLiteralType"
 depends-member:
 - ["PSs9AnyObject", "init"]
 - ["PSs9AnyObject", "menuItems"]

@@ -107,10 +107,19 @@ SWIFT_CLASS("_TtC7KickApp11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UITableView;
-@class NSIndexPath;
 @class NSBundle;
 @class NSCoder;
+
+SWIFT_CLASS("_TtC7KickApp27CoachStrategyViewController")
+@interface CoachStrategyViewController : UIViewController
+- (void)viewDidLoad;
+- (void)done;
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UITableView;
+@class NSIndexPath;
 
 SWIFT_CLASS("_TtC7KickApp18CoachesMainTableVC")
 @interface CoachesMainTableVC : UITableViewController
@@ -130,10 +139,94 @@ SWIFT_CLASS("_TtC7KickApp21CoachesRegistrationVC")
 @end
 
 
+SWIFT_CLASS("_TtC7KickApp18FansRegistrationVC")
+@interface FansRegistrationVC : UIViewController
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC7KickApp21PaymentViewController")
+@interface PaymentViewController : UIViewController
+- (void)viewDidLoad;
+- (void)paymentdone;
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC7KickApp27PlayerProfileViewController")
+@interface PlayerProfileViewController : UIViewController
+@property (nonatomic, readonly, copy) NSArray<NSString *> * __nonnull titles;
+@property (nonatomic, readonly, copy) NSArray<NSString *> * __nonnull values;
+- (void)viewDidLoad;
+- (void)logout;
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UITableViewCell;
+
+@interface PlayerProfileViewController (SWIFT_EXTENSION(KickApp)) <UITableViewDataSource>
+- (NSInteger)tableView:(UITableView * __nonnull)tableView numberOfRowsInSection:(NSInteger)section;
+- (NSInteger)numberOfSectionsInTableView:(UITableView * __nonnull)tableView;
+- (UITableViewCell * __nonnull)tableView:(UITableView * __nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * __nonnull)indexPath;
+@end
+
+
+SWIFT_CLASS("_TtC7KickApp28PlayerProfileViewController2")
+@interface PlayerProfileViewController2 : UIViewController
+@property (nonatomic, readonly, copy) NSArray<NSString *> * __nonnull titles;
+@property (nonatomic, readonly, copy) NSArray<NSString *> * __nonnull values;
+- (void)viewDidLoad;
+- (void)logout;
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface PlayerProfileViewController2 (SWIFT_EXTENSION(KickApp)) <UITableViewDataSource>
+- (NSInteger)tableView:(UITableView * __nonnull)tableView numberOfRowsInSection:(NSInteger)section;
+- (NSInteger)numberOfSectionsInTableView:(UITableView * __nonnull)tableView;
+- (UITableViewCell * __nonnull)tableView:(UITableView * __nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * __nonnull)indexPath;
+@end
+
+
+SWIFT_CLASS("_TtC7KickApp29PlayerSelectionViewController")
+@interface PlayerSelectionViewController : UITableViewController
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithStyle:(UITableViewStyle)style OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface PlayerSelectionViewController (SWIFT_EXTENSION(KickApp))
+- (void)tableView:(UITableView * __nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * __nonnull)indexPath;
+- (void)goback;
+@end
+
+
+SWIFT_CLASS("_TtC7KickApp21PlayersRegistrationVC")
+@interface PlayersRegistrationVC : UIViewController
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC7KickApp20SplashViewController")
 @interface SplashViewController : UIViewController
 - (void)viewDidLoad;
 - (void)didReceiveMemoryWarning;
+- (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC7KickApp21TicketsViewController")
+@interface TicketsViewController : UIViewController
+- (void)viewDidLoad;
+- (void)done;
 - (nonnull instancetype)initWithNibName:(NSString * __nullable)nibNameOrNil bundle:(NSBundle * __nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * __nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

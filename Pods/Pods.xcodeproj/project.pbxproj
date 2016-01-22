@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0950DAFE66B7A829933AE6BC5CCA7A69 /* HanabiCollectionViewLayout-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9422E6B334D7668D3DA5E9199EE4DC8C /* HanabiCollectionViewLayout-dummy.m */; };
-		28611B78BB8C016D59B989D8B7B05D98 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E7E5AF37923BFA48D6994B9BFC6535F /* Foundation.framework */; };
-		474F3F71DE796E83549DCB278A8537D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B7BDF5CE5CB8F095FE12DA55D9A9BB /* UIKit.framework */; };
-		63607F49B50EDFD0273D02677EC81A54 /* Pods-KickApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E377E6D0A0BDDA4AA4E9CDD3845A81A1 /* Pods-KickApp-dummy.m */; };
-		915FBC6F37EE35F16F13BB10C5328977 /* HanabiCollectionViewLayout-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 98CAB5DEC6EC0EFE3AA3B7502B248241 /* HanabiCollectionViewLayout-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		95262B583058A3807A6B095537B22E40 /* Pods-KickApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9EC2D4F227F4AF6D3C792DEC9688DE86 /* Pods-KickApp-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A72828AEE04C1E239A124C980BD2771B /* HanabiCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D6F4B265E8A884E768DDB58EF312AE /* HanabiCollectionViewLayout.swift */; };
-		FDCA416A9FC9D9466A45310CBF1C9B92 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E7E5AF37923BFA48D6994B9BFC6535F /* Foundation.framework */; };
+		099FBF0C875B027CDC72F0E5DDF71AA6 /* Pods-KickApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E377E6D0A0BDDA4AA4E9CDD3845A81A1 /* Pods-KickApp-dummy.m */; };
+		3C0712E988F4AB910481DDC14C6CE0B7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		50AA0C5DF3DA1B85B83B7A03420555C5 /* YMSwipeTableViewCell-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 38CA1B5E864B1453DD840B3816263E3E /* YMSwipeTableViewCell-dummy.m */; };
+		5579C1B29DB15513CEB7F0245802F1AC /* UITableViewCell+Swipe.h in Headers */ = {isa = PBXBuildFile; fileRef = A3586F550120D999B2DE85FB51D4077A /* UITableViewCell+Swipe.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		70B3F036D6D59CE7F0D516AEDE332E4B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		AE5AFEE0A59A76DFB299065CDC515FE4 /* Pods-KickApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9EC2D4F227F4AF6D3C792DEC9688DE86 /* Pods-KickApp-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CA855212EC4D1DE9FBAD9D82C15AFDEB /* YMSwipeTableViewCell-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EF9D0968A03B716993D31DA370E9F129 /* YMSwipeTableViewCell-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EF0D79DA1E9329D286D5379196E666A2 /* UITableViewCell+Swipe.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D29F7E41D3DA652DF50B36DE16BE64 /* UITableViewCell+Swipe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F2B4ACEB34DB33588CA8071A9A341DBE /* PBXContainerItemProxy */ = {
+		E85A9D3863B893A4BFDD389725ABF13C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 97CBD39F56F3833D43324AB55233E62C;
-			remoteInfo = HanabiCollectionViewLayout;
+			remoteGlobalIDString = 0A4FC10DC7D5DA13C8E81C7C7A6E183B;
+			remoteInfo = YMSwipeTableViewCell;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -31,42 +31,41 @@
 		18332B148B14851C226EABBB3F0FA191 /* Pods-KickApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KickApp-acknowledgements.plist"; sourceTree = "<group>"; };
 		21AAB05FA29ADC49FBA5689508ADBACA /* Pods-KickApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KickApp-acknowledgements.markdown"; sourceTree = "<group>"; };
 		236F4EF3AF4DE0D9C7FB98382927CFC6 /* Pods-KickApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KickApp.debug.xcconfig"; sourceTree = "<group>"; };
+		2BC2782FB2B3A7867147261DF250AE13 /* YMSwipeTableViewCell.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = YMSwipeTableViewCell.modulemap; sourceTree = "<group>"; };
+		38CA1B5E864B1453DD840B3816263E3E /* YMSwipeTableViewCell-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YMSwipeTableViewCell-dummy.m"; sourceTree = "<group>"; };
 		3CC321FA6989FEB1E05862655BE55FCE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D9494C37EB73A749A3A9B9D9448B042 /* Pods-KickApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KickApp-resources.sh"; sourceTree = "<group>"; };
-		51D6F4B265E8A884E768DDB58EF312AE /* HanabiCollectionViewLayout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HanabiCollectionViewLayout.swift; path = Hanabi/HanabiCollectionViewLayout.swift; sourceTree = "<group>"; };
+		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		4C4754EA914B081ADC97CCC80A39EDF6 /* YMSwipeTableViewCell-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YMSwipeTableViewCell-prefix.pch"; sourceTree = "<group>"; };
 		5494735D644CB92AA3C512D9B713500E /* Pods-KickApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KickApp-frameworks.sh"; sourceTree = "<group>"; };
-		66412ACDAA3E05662337ED3787656759 /* HanabiCollectionViewLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = HanabiCollectionViewLayout.modulemap; sourceTree = "<group>"; };
+		68F4F5AE9B4817277D559769E0215870 /* Pods_KickApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KickApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		69316F4732906918A0D4B28B0FD7D8B4 /* Pods-KickApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KickApp.release.xcconfig"; sourceTree = "<group>"; };
-		6E7E5AF37923BFA48D6994B9BFC6535F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		81E31BC0732C6D83DAE9C4DE786B3CA7 /* YMSwipeTableViewCell.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YMSwipeTableViewCell.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		837090B9D8CD242594AE67AEAEB49559 /* Pods-KickApp.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-KickApp.modulemap"; sourceTree = "<group>"; };
-		905F0356576A92BD8E70865CE77438A8 /* HanabiCollectionViewLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HanabiCollectionViewLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		90E34C0DDBA0F6D47B1FCA01E74EF1BD /* Pods_KickApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KickApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9242432A62C2474519B37F6DCD389031 /* HanabiCollectionViewLayout.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HanabiCollectionViewLayout.xcconfig; sourceTree = "<group>"; };
-		9422E6B334D7668D3DA5E9199EE4DC8C /* HanabiCollectionViewLayout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HanabiCollectionViewLayout-dummy.m"; sourceTree = "<group>"; };
-		98CAB5DEC6EC0EFE3AA3B7502B248241 /* HanabiCollectionViewLayout-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HanabiCollectionViewLayout-umbrella.h"; sourceTree = "<group>"; };
 		9EC2D4F227F4AF6D3C792DEC9688DE86 /* Pods-KickApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KickApp-umbrella.h"; sourceTree = "<group>"; };
-		BA33477B58529041994A5306C1B97475 /* HanabiCollectionViewLayout-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HanabiCollectionViewLayout-prefix.pch"; sourceTree = "<group>"; };
+		A3586F550120D999B2DE85FB51D4077A /* UITableViewCell+Swipe.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITableViewCell+Swipe.h"; path = "YMSwipeTableViewCell/PodFiles/UITableViewCell+Swipe.h"; sourceTree = "<group>"; };
+		A6D29F7E41D3DA652DF50B36DE16BE64 /* UITableViewCell+Swipe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITableViewCell+Swipe.m"; path = "YMSwipeTableViewCell/PodFiles/UITableViewCell+Swipe.m"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C3B7BDF5CE5CB8F095FE12DA55D9A9BB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		DED8A9F455B6EFD514DC5DC106AA4F31 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCAD80D20C3FA50F03423A474860B054 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E377E6D0A0BDDA4AA4E9CDD3845A81A1 /* Pods-KickApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KickApp-dummy.m"; sourceTree = "<group>"; };
+		EF9D0968A03B716993D31DA370E9F129 /* YMSwipeTableViewCell-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YMSwipeTableViewCell-umbrella.h"; sourceTree = "<group>"; };
+		FD59DA750F134A74B83ABE88FE0F36D9 /* YMSwipeTableViewCell.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YMSwipeTableViewCell.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9BCC0200E2A6384C61D80CB347E752ED /* Frameworks */ = {
+		633BFDC6A2675ABEB22E5FED2E11BAC0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28611B78BB8C016D59B989D8B7B05D98 /* Foundation.framework in Frameworks */,
+				3C0712E988F4AB910481DDC14C6CE0B7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9FF0CD1D65F509A4F41BF51388DBF8CE /* Frameworks */ = {
+		E72FD8D846DA242A96F37949232EDE19 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDCA416A9FC9D9466A45310CBF1C9B92 /* Foundation.framework in Frameworks */,
-				474F3F71DE796E83549DCB278A8537D5 /* UIKit.framework in Frameworks */,
+				70B3F036D6D59CE7F0D516AEDE332E4B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,31 +78,6 @@
 				5135EB66CFF3D8FF29877DE3183CE6F2 /* Pods-KickApp */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		18340F12838DEE43507667CC74401EB1 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				6E7E5AF37923BFA48D6994B9BFC6535F /* Foundation.framework */,
-				C3B7BDF5CE5CB8F095FE12DA55D9A9BB /* UIKit.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				18340F12838DEE43507667CC74401EB1 /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		50013D161AF668F230998BC1459132F3 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				A8498CF92F7F85D4B3768D29963249A4 /* HanabiCollectionViewLayout */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		5135EB66CFF3D8FF29877DE3183CE6F2 /* Pods-KickApp */ = {
@@ -124,104 +98,130 @@
 			path = "Target Support Files/Pods-KickApp";
 			sourceTree = "<group>";
 		};
-		77219261B46C784DB0DE0C20B082E623 /* Products */ = {
+		545E1ADCC55695698719D956CCE5296C /* YMSwipeTableViewCell */ = {
 			isa = PBXGroup;
 			children = (
-				905F0356576A92BD8E70865CE77438A8 /* HanabiCollectionViewLayout.framework */,
-				90E34C0DDBA0F6D47B1FCA01E74EF1BD /* Pods_KickApp.framework */,
+				A3586F550120D999B2DE85FB51D4077A /* UITableViewCell+Swipe.h */,
+				A6D29F7E41D3DA652DF50B36DE16BE64 /* UITableViewCell+Swipe.m */,
+				DF83C0F1836DB046CA97C9CA05DC4462 /* Support Files */,
+			);
+			path = YMSwipeTableViewCell;
+			sourceTree = "<group>";
+		};
+		672EBF0717C858831FB54FCD45F9E9F5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68F4F5AE9B4817277D559769E0215870 /* Pods_KickApp.framework */,
+				81E31BC0732C6D83DAE9C4DE786B3CA7 /* YMSwipeTableViewCell.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		790CA2346FCFBC818DD94C5EF638A040 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				545E1ADCC55695698719D956CCE5296C /* YMSwipeTableViewCell */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
-				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
-				50013D161AF668F230998BC1459132F3 /* Pods */,
-				77219261B46C784DB0DE0C20B082E623 /* Products */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				790CA2346FCFBC818DD94C5EF638A040 /* Pods */,
+				672EBF0717C858831FB54FCD45F9E9F5 /* Products */,
 				09C0B420E21B3DBF659598E4C46D619D /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		A8498CF92F7F85D4B3768D29963249A4 /* HanabiCollectionViewLayout */ = {
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				51D6F4B265E8A884E768DDB58EF312AE /* HanabiCollectionViewLayout.swift */,
-				AFAB0699AB5ACA4D1188F975EF330A32 /* Support Files */,
+				BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */,
 			);
-			path = HanabiCollectionViewLayout;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		AFAB0699AB5ACA4D1188F975EF330A32 /* Support Files */ = {
+		BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				66412ACDAA3E05662337ED3787656759 /* HanabiCollectionViewLayout.modulemap */,
-				9242432A62C2474519B37F6DCD389031 /* HanabiCollectionViewLayout.xcconfig */,
-				9422E6B334D7668D3DA5E9199EE4DC8C /* HanabiCollectionViewLayout-dummy.m */,
-				BA33477B58529041994A5306C1B97475 /* HanabiCollectionViewLayout-prefix.pch */,
-				98CAB5DEC6EC0EFE3AA3B7502B248241 /* HanabiCollectionViewLayout-umbrella.h */,
-				DED8A9F455B6EFD514DC5DC106AA4F31 /* Info.plist */,
+				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		DF83C0F1836DB046CA97C9CA05DC4462 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DCAD80D20C3FA50F03423A474860B054 /* Info.plist */,
+				2BC2782FB2B3A7867147261DF250AE13 /* YMSwipeTableViewCell.modulemap */,
+				FD59DA750F134A74B83ABE88FE0F36D9 /* YMSwipeTableViewCell.xcconfig */,
+				38CA1B5E864B1453DD840B3816263E3E /* YMSwipeTableViewCell-dummy.m */,
+				4C4754EA914B081ADC97CCC80A39EDF6 /* YMSwipeTableViewCell-prefix.pch */,
+				EF9D0968A03B716993D31DA370E9F129 /* YMSwipeTableViewCell-umbrella.h */,
 			);
 			name = "Support Files";
-			path = "../Target Support Files/HanabiCollectionViewLayout";
+			path = "../Target Support Files/YMSwipeTableViewCell";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		223C97EF8235BA397F0E6B9748FB6F26 /* Headers */ = {
+		2EF5AE40EF2A3AAC4A9051AE5CB1EC93 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				915FBC6F37EE35F16F13BB10C5328977 /* HanabiCollectionViewLayout-umbrella.h in Headers */,
+				5579C1B29DB15513CEB7F0245802F1AC /* UITableViewCell+Swipe.h in Headers */,
+				CA855212EC4D1DE9FBAD9D82C15AFDEB /* YMSwipeTableViewCell-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A68822887C4A996BB2A544DA757D9820 /* Headers */ = {
+		3F1AC1FC6F54A328EC2FF437BF678237 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95262B583058A3807A6B095537B22E40 /* Pods-KickApp-umbrella.h in Headers */,
+				AE5AFEE0A59A76DFB299065CDC515FE4 /* Pods-KickApp-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		97CBD39F56F3833D43324AB55233E62C /* HanabiCollectionViewLayout */ = {
+		0A4FC10DC7D5DA13C8E81C7C7A6E183B /* YMSwipeTableViewCell */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7EB43B855E419C0DA81F34499775B2AA /* Build configuration list for PBXNativeTarget "HanabiCollectionViewLayout" */;
+			buildConfigurationList = 7730047AA463721A0CB550C3C319BB67 /* Build configuration list for PBXNativeTarget "YMSwipeTableViewCell" */;
 			buildPhases = (
-				F6452BDE4A7604577CEB1C20821C138C /* Sources */,
-				9FF0CD1D65F509A4F41BF51388DBF8CE /* Frameworks */,
-				223C97EF8235BA397F0E6B9748FB6F26 /* Headers */,
+				B4BFF9E77C79A217EECD9188708F6366 /* Sources */,
+				E72FD8D846DA242A96F37949232EDE19 /* Frameworks */,
+				2EF5AE40EF2A3AAC4A9051AE5CB1EC93 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HanabiCollectionViewLayout;
-			productName = HanabiCollectionViewLayout;
-			productReference = 905F0356576A92BD8E70865CE77438A8 /* HanabiCollectionViewLayout.framework */;
+			name = YMSwipeTableViewCell;
+			productName = YMSwipeTableViewCell;
+			productReference = 81E31BC0732C6D83DAE9C4DE786B3CA7 /* YMSwipeTableViewCell.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		EFE193FDCD736045B40EDF9120780281 /* Pods-KickApp */ = {
+		4312E926EAA2A9537D7DAEE04DD6F977 /* Pods-KickApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 66C188F601B8661CA74DB767733C884D /* Build configuration list for PBXNativeTarget "Pods-KickApp" */;
+			buildConfigurationList = 9612EA5C1342EEC4B4C403A966DAF3B7 /* Build configuration list for PBXNativeTarget "Pods-KickApp" */;
 			buildPhases = (
-				1C91F67A2986E90B6EEA75E19DAD49F0 /* Sources */,
-				9BCC0200E2A6384C61D80CB347E752ED /* Frameworks */,
-				A68822887C4A996BB2A544DA757D9820 /* Headers */,
+				A7A77A85673FE34C00E1836D857A75B4 /* Sources */,
+				633BFDC6A2675ABEB22E5FED2E11BAC0 /* Frameworks */,
+				3F1AC1FC6F54A328EC2FF437BF678237 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				696BB4EEA9E3D6ADD9EE6EF27726C785 /* PBXTargetDependency */,
+				94AAEED8632577C172540BC6F1DEC61B /* PBXTargetDependency */,
 			);
 			name = "Pods-KickApp";
 			productName = "Pods-KickApp";
-			productReference = 90E34C0DDBA0F6D47B1FCA01E74EF1BD /* Pods_KickApp.framework */;
+			productReference = 68F4F5AE9B4817277D559769E0215870 /* Pods_KickApp.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -241,49 +241,49 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 77219261B46C784DB0DE0C20B082E623 /* Products */;
+			productRefGroup = 672EBF0717C858831FB54FCD45F9E9F5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				97CBD39F56F3833D43324AB55233E62C /* HanabiCollectionViewLayout */,
-				EFE193FDCD736045B40EDF9120780281 /* Pods-KickApp */,
+				4312E926EAA2A9537D7DAEE04DD6F977 /* Pods-KickApp */,
+				0A4FC10DC7D5DA13C8E81C7C7A6E183B /* YMSwipeTableViewCell */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1C91F67A2986E90B6EEA75E19DAD49F0 /* Sources */ = {
+		A7A77A85673FE34C00E1836D857A75B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63607F49B50EDFD0273D02677EC81A54 /* Pods-KickApp-dummy.m in Sources */,
+				099FBF0C875B027CDC72F0E5DDF71AA6 /* Pods-KickApp-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F6452BDE4A7604577CEB1C20821C138C /* Sources */ = {
+		B4BFF9E77C79A217EECD9188708F6366 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0950DAFE66B7A829933AE6BC5CCA7A69 /* HanabiCollectionViewLayout-dummy.m in Sources */,
-				A72828AEE04C1E239A124C980BD2771B /* HanabiCollectionViewLayout.swift in Sources */,
+				EF0D79DA1E9329D286D5379196E666A2 /* UITableViewCell+Swipe.m in Sources */,
+				50AA0C5DF3DA1B85B83B7A03420555C5 /* YMSwipeTableViewCell-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		696BB4EEA9E3D6ADD9EE6EF27726C785 /* PBXTargetDependency */ = {
+		94AAEED8632577C172540BC6F1DEC61B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = HanabiCollectionViewLayout;
-			target = 97CBD39F56F3833D43324AB55233E62C /* HanabiCollectionViewLayout */;
-			targetProxy = F2B4ACEB34DB33588CA8071A9A341DBE /* PBXContainerItemProxy */;
+			name = YMSwipeTableViewCell;
+			target = 0A4FC10DC7D5DA13C8E81C7C7A6E183B /* YMSwipeTableViewCell */;
+			targetProxy = E85A9D3863B893A4BFDD389725ABF13C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		236086942C72BEF69E1942C7849017A6 /* Debug */ = {
+		1B5973A1CA0229F3BF9630C6129C91F9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9242432A62C2474519B37F6DCD389031 /* HanabiCollectionViewLayout.xcconfig */;
+			baseConfigurationReference = FD59DA750F134A74B83ABE88FE0F36D9 /* YMSwipeTableViewCell.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -292,24 +292,80 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/HanabiCollectionViewLayout/HanabiCollectionViewLayout-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HanabiCollectionViewLayout/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/YMSwipeTableViewCell/YMSwipeTableViewCell-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YMSwipeTableViewCell/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/HanabiCollectionViewLayout/HanabiCollectionViewLayout.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = HanabiCollectionViewLayout;
+				MODULEMAP_FILE = "Target Support Files/YMSwipeTableViewCell/YMSwipeTableViewCell.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = YMSwipeTableViewCell;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7E2A3B8A29D9DF1957C037A7FF940F04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD59DA750F134A74B83ABE88FE0F36D9 /* YMSwipeTableViewCell.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/YMSwipeTableViewCell/YMSwipeTableViewCell-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/YMSwipeTableViewCell/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/YMSwipeTableViewCell/YMSwipeTableViewCell.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = YMSwipeTableViewCell;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		5B2ECDF09609C8C1D9D8FC898DF5B3F8 /* Release */ = {
+		AD02FA1FF1798000762F9519E5CBC113 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 236F4EF3AF4DE0D9C7FB98382927CFC6 /* Pods-KickApp.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-KickApp/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-KickApp/Pods-KickApp.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_KickApp;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		AD409D9EFF6E310F67A39441E1D1486D /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 69316F4732906918A0D4B28B0FD7D8B4 /* Pods-KickApp.release.xcconfig */;
 			buildSettings = {
@@ -338,64 +394,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		70676819A10903D4A270F4768CE0C7B6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9242432A62C2474519B37F6DCD389031 /* HanabiCollectionViewLayout.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/HanabiCollectionViewLayout/HanabiCollectionViewLayout-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HanabiCollectionViewLayout/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/HanabiCollectionViewLayout/HanabiCollectionViewLayout.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = HanabiCollectionViewLayout;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		AA2AF7505821BA47ACE5BD8B6D048677 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 236F4EF3AF4DE0D9C7FB98382927CFC6 /* Pods-KickApp.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-KickApp/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KickApp/Pods-KickApp.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_KickApp;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		C074F63C9EE7CB4D8C618390A32CEC35 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -482,20 +480,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		66C188F601B8661CA74DB767733C884D /* Build configuration list for PBXNativeTarget "Pods-KickApp" */ = {
+		7730047AA463721A0CB550C3C319BB67 /* Build configuration list for PBXNativeTarget "YMSwipeTableViewCell" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AA2AF7505821BA47ACE5BD8B6D048677 /* Debug */,
-				5B2ECDF09609C8C1D9D8FC898DF5B3F8 /* Release */,
+				7E2A3B8A29D9DF1957C037A7FF940F04 /* Debug */,
+				1B5973A1CA0229F3BF9630C6129C91F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7EB43B855E419C0DA81F34499775B2AA /* Build configuration list for PBXNativeTarget "HanabiCollectionViewLayout" */ = {
+		9612EA5C1342EEC4B4C403A966DAF3B7 /* Build configuration list for PBXNativeTarget "Pods-KickApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				236086942C72BEF69E1942C7849017A6 /* Debug */,
-				70676819A10903D4A270F4768CE0C7B6 /* Release */,
+				AD02FA1FF1798000762F9519E5CBC113 /* Debug */,
+				AD409D9EFF6E310F67A39441E1D1486D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

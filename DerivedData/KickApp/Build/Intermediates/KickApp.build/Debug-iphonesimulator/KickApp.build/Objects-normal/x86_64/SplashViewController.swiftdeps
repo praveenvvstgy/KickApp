@@ -6,11 +6,11 @@ provides-nominal:
 provides-member:
 - ["C7KickApp20SplashViewController", ""]
 provides-dynamic-lookup:
-- "didReceiveMemoryWarning"
 - "viewDidLoad"
+- "didReceiveMemoryWarning"
 depends-top-level:
-- "UIViewController"
 - "SplashViewController"
+- "UIViewController"
 depends-member:
 - ["PSs9AnyObject", "didReceiveMemoryWarning"]
 - ["PSs9AnyObject", "init"]

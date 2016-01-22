@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B41DE0BD1C5146B6000B7BE5 /* PlayersRegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41DE0BC1C5146B6000B7BE5 /* PlayersRegistrationVC.swift */; };
+		B41DE0BF1C51490D000B7BE5 /* PlayerProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41DE0BE1C51490D000B7BE5 /* PlayerProfileViewController.swift */; };
+		B42C116C1C51D2DF00A109F9 /* CoachStrategyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42C116B1C51D2DF00A109F9 /* CoachStrategyViewController.swift */; };
+		B42C116E1C51DAE000A109F9 /* PlayerProfileViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42C116D1C51DAE000A109F9 /* PlayerProfileViewController2.swift */; };
+		B42C11701C51DF8300A109F9 /* PlayerSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42C116F1C51DF8300A109F9 /* PlayerSelectionViewController.swift */; };
+		B42C11741C51E63F00A109F9 /* FansRegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42C11731C51E63F00A109F9 /* FansRegistrationVC.swift */; };
+		B42C11761C51EB8B00A109F9 /* PaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42C11751C51EB8B00A109F9 /* PaymentViewController.swift */; };
+		B42C11781C51ED3000A109F9 /* TicketsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42C11771C51ED3000A109F9 /* TicketsViewController.swift */; };
 		B44E383A1C4FE21800644535 /* CoachesRegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44E38391C4FE21800644535 /* CoachesRegistrationVC.swift */; };
 		B44E383C1C4FE24100644535 /* CoachesMainTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44E383B1C4FE24100644535 /* CoachesMainTableVC.swift */; };
 		B4C3E9131C4E9430008E7627 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C3E9121C4E9430008E7627 /* AppDelegate.swift */; };
@@ -19,6 +27,14 @@
 
 /* Begin PBXFileReference section */
 		9AB143959DC651E023C25367 /* Pods-KickApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KickApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KickApp/Pods-KickApp.debug.xcconfig"; sourceTree = "<group>"; };
+		B41DE0BC1C5146B6000B7BE5 /* PlayersRegistrationVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayersRegistrationVC.swift; sourceTree = "<group>"; };
+		B41DE0BE1C51490D000B7BE5 /* PlayerProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerProfileViewController.swift; sourceTree = "<group>"; };
+		B42C116B1C51D2DF00A109F9 /* CoachStrategyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoachStrategyViewController.swift; sourceTree = "<group>"; };
+		B42C116D1C51DAE000A109F9 /* PlayerProfileViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerProfileViewController2.swift; sourceTree = "<group>"; };
+		B42C116F1C51DF8300A109F9 /* PlayerSelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerSelectionViewController.swift; sourceTree = "<group>"; };
+		B42C11731C51E63F00A109F9 /* FansRegistrationVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FansRegistrationVC.swift; sourceTree = "<group>"; };
+		B42C11751C51EB8B00A109F9 /* PaymentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentViewController.swift; sourceTree = "<group>"; };
+		B42C11771C51ED3000A109F9 /* TicketsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TicketsViewController.swift; sourceTree = "<group>"; };
 		B44E38391C4FE21800644535 /* CoachesRegistrationVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoachesRegistrationVC.swift; sourceTree = "<group>"; };
 		B44E383B1C4FE24100644535 /* CoachesMainTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoachesMainTableVC.swift; sourceTree = "<group>"; };
 		B4C3E90F1C4E9430008E7627 /* KickApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KickApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +102,14 @@
 				B4C3E9121C4E9430008E7627 /* AppDelegate.swift */,
 				B4C3E9141C4E9430008E7627 /* SplashViewController.swift */,
 				B4C3E9161C4E9430008E7627 /* Main.storyboard */,
+				B42C11751C51EB8B00A109F9 /* PaymentViewController.swift */,
+				B42C11771C51ED3000A109F9 /* TicketsViewController.swift */,
+				B42C116F1C51DF8300A109F9 /* PlayerSelectionViewController.swift */,
+				B42C116B1C51D2DF00A109F9 /* CoachStrategyViewController.swift */,
+				B41DE0BE1C51490D000B7BE5 /* PlayerProfileViewController.swift */,
+				B42C116D1C51DAE000A109F9 /* PlayerProfileViewController2.swift */,
+				B41DE0BC1C5146B6000B7BE5 /* PlayersRegistrationVC.swift */,
+				B42C11731C51E63F00A109F9 /* FansRegistrationVC.swift */,
 				B44E383B1C4FE24100644535 /* CoachesMainTableVC.swift */,
 				B4C3E9191C4E9430008E7627 /* Assets.xcassets */,
 				B4C3E91B1C4E9430008E7627 /* LaunchScreen.storyboard */,
@@ -215,10 +239,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B42C11701C51DF8300A109F9 /* PlayerSelectionViewController.swift in Sources */,
+				B41DE0BD1C5146B6000B7BE5 /* PlayersRegistrationVC.swift in Sources */,
+				B42C116C1C51D2DF00A109F9 /* CoachStrategyViewController.swift in Sources */,
 				B4C3E9151C4E9430008E7627 /* SplashViewController.swift in Sources */,
+				B42C11781C51ED3000A109F9 /* TicketsViewController.swift in Sources */,
 				B44E383A1C4FE21800644535 /* CoachesRegistrationVC.swift in Sources */,
+				B42C116E1C51DAE000A109F9 /* PlayerProfileViewController2.swift in Sources */,
+				B42C11761C51EB8B00A109F9 /* PaymentViewController.swift in Sources */,
 				B4C3E9131C4E9430008E7627 /* AppDelegate.swift in Sources */,
+				B42C11741C51E63F00A109F9 /* FansRegistrationVC.swift in Sources */,
 				B44E383C1C4FE24100644535 /* CoachesMainTableVC.swift in Sources */,
+				B41DE0BF1C51490D000B7BE5 /* PlayerProfileViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

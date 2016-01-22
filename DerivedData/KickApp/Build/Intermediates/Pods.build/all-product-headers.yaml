@@ -4,33 +4,6 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/HanabiCollectionViewLayout.framework/Headers",
-      'contents': [
-        {
-          'type': 'file',
-          'name': "HanabiCollectionViewLayout-Swift.h",
-          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/HanabiCollectionViewLayout.framework/Headers/HanabiCollectionViewLayout-Swift.h"
-        },
-        {
-          'type': 'file',
-          'name': "HanabiCollectionViewLayout-umbrella.h",
-          'external-contents': "/Users/i322360/Desktop/KickApp/Pods/Target Support Files/HanabiCollectionViewLayout/HanabiCollectionViewLayout-umbrella.h"
-        }
-      ]
-    },
-    {
-      'type': 'directory',
-      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/HanabiCollectionViewLayout.framework/Modules",
-      'contents': [
-        {
-          'type': 'file',
-          'name': "module.modulemap",
-          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/HanabiCollectionViewLayout.build/module.modulemap"
-        }
-      ]
-    },
-    {
-      'type': 'directory',
       'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/Pods_KickApp.framework/Headers",
       'contents': [
         {
@@ -53,6 +26,38 @@
           'type': 'file',
           'name': "module.modulemap",
           'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-KickApp.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/YMSwipeTableViewCell.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UITableViewCell+Swipe.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/Pods/YMSwipeTableViewCell/YMSwipeTableViewCell/PodFiles/UITableViewCell+Swipe.h"
+        },
+        {
+          'type': 'file',
+          'name': "YMSwipeTableViewCell-Swift.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/YMSwipeTableViewCell.framework/Headers/YMSwipeTableViewCell-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YMSwipeTableViewCell-umbrella.h",
+          'external-contents': "/Users/i322360/Desktop/KickApp/Pods/Target Support Files/YMSwipeTableViewCell/YMSwipeTableViewCell-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Products/Debug-iphonesimulator/YMSwipeTableViewCell.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/i322360/Desktop/KickApp/DerivedData/KickApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/YMSwipeTableViewCell.build/module.modulemap"
         }
       ]
     }

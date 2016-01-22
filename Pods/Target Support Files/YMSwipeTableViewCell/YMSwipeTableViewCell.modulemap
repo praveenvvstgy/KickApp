@@ -1,0 +1,6 @@
+framework module YMSwipeTableViewCell {
+  umbrella header "YMSwipeTableViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}

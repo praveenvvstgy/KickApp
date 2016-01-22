@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'DBE257B5D84CD79551DC6CE1'
+               BlueprintIdentifier = '32B86F39AEC22F7B0F61A9F3'
                BlueprintName = 'Pods-KickApp'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_KickApp.framework'>
